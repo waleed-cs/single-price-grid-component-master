@@ -170,19 +170,11 @@ main {
     border-bottom-left-radius: 10px;
   }
 
-  .card3 .content {
-    display: flex;
-    flex-direction: column;
-    height: 20vh;
-  }
-
   .card3 .content h3 {
-    color: hsl(204, 43%, 93%);
     margin-bottom: 10px;
   }
 
   .card3 .content p {
-    color: hsl(204, 43%, 93%);
     line-height: 1.5em;
   }
 }
